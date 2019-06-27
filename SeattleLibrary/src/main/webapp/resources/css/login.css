@@ -1,0 +1,117 @@
+input {
+	width:350px;
+	margin:0 50px;
+	outline:0;
+	background: transparent;
+}
+
+a:hover{
+	opacity:0.5;
+}
+
+.icon{
+	width:150px;
+	margin-top:10px;
+}
+
+.container{
+	background-size:cover;
+	background-color:#191970;
+	height:100%;
+}
+
+.head{
+	margin-top:50px;
+	padding-top:10px;
+}
+
+body{
+	position:absolute;
+	left:0;
+	right:0;
+	top:0;
+	margin:0;
+	height:800px;
+	background-color:#afeeee;
+}
+
+.main-image{
+	width:600px;
+	margin:auto;
+	background-color:white;
+	border-radius:20px;
+}
+
+.head p{
+	margin:0;
+	vertical-align: top;
+}
+
+header{
+	height:100px;
+	text-align:center;
+	margin-left:0;
+	padding-left:0;
+}
+
+.main{
+	margin:0 auto;
+	width:450px;
+	margin-top:100px;
+	text-align:center;
+}
+
+input:invalid{
+	box-shadow: none;
+}
+
+.main p{
+	margin:15px 10px 0;
+	font-size:12px;
+}
+
+.have{
+	margin-top:15px;
+}
+
+.foot{
+	margin:0 auto;
+	width:450px;
+	height:100px;
+}
+
+
+.foot p {
+	margin-top:0;
+	text-align:center;
+	font-size:12px;
+}
+
+li{
+	display-inline:block;
+}
+
+.logbut{
+	margin-top:20px;
+	padding:15px;
+	width:240px;
+}
+
+.logbut:hover{
+	opacity:0.5;
+}
+
+.foot1{
+	margin:40px auto;
+	width:450px;
+	text-align:center;
+	height:70px;
+}
+
+.foot1 a{
+	text-decoration:none;
+}
+
+.back{
+	margin-left:15px;
+}
